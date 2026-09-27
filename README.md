@@ -5,7 +5,7 @@
 I'm a front-end developer with **6+ years of experience** building high-performance, responsive websites and web applications. I've delivered **400+ WordPress projects** — from custom themes and dynamic content systems to React-powered interfaces — always with a focus on **speed, cross-browser compatibility, and clean, maintainable code.**
 
 📍 Lahore, Pakistan · 🌐 Open to remote & relocation
-📫 **mariamaqsoq@gmail.com** · 💼 [LinkedIn]([https://www.linkedin.com/in/mariamaqsod/](https://www.linkedin.com/in/maria-umar-ahmad/))
+📫 **mariamaqsoq@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/maria-umar-ahmad/)
 
 ---
 
